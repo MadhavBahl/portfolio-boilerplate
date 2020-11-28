@@ -23,6 +23,7 @@ Here are the things which can be improved
 
 Explore these topics
 
-1. React Router
-2. React Hooks
-3. Redux
+1. Host this app on gh-pages
+1. Study React Router
+2. Convert all class components to functional using React Hooks
+3. Study Redux
